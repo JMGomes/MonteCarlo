@@ -1,4 +1,4 @@
-# MonteCarlo
+# MonteCarlo JavaScript Calculator
 
 This project is divided in 2 sections, FE and BE
 
