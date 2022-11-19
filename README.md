@@ -39,3 +39,8 @@ App.tsx -> MonteCarloComponents.tsx (1)
 (1) calls MonteCarloService (2) - that is responsible for batch processing and PI calculation
 
 (2) calls MonteCarloAPI to get points from BE
+
+
+# DEMO
+
+![demotogif3](https://user-images.githubusercontent.com/33399876/202865263-20bef198-3e84-483c-9f48-5bdfb5876cc8.gif)
