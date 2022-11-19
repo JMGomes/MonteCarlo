@@ -1,0 +1,10 @@
+.App {
+  padding: 50px;
+}
+label, input {
+  margin-right: 5px;
+}
+
+h1 {
+  margin-top: 50px;
+}
